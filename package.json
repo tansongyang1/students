@@ -1,0 +1,29 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "bootstrap": "^3.4.1",
+    "express": "^4.16.4",
+    "express-art-template": "^1.0.1",
+    "modules": "^0.4.0",
+    "mongoose": "^5.4.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longqiUTR/curd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/longqiUTR/curd/issues"
+  },
+  "homepage": "https://github.com/longqiUTR/curd#readme",
+  "description": "使用：",
+  "devDependencies": {}
+}
